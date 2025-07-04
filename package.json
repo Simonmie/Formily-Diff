@@ -1,0 +1,12 @@
+{
+  "name": "formily-diff",
+  "version": "1.0.0",
+  "description": "Formily-Diff,use JSON Schema,render Diff forms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
